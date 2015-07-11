@@ -1,2 +1,13 @@
-<h1>Users#index</h1>
-<p>Find me in app/views/users/index.html.erb</p>
+<h1><%= link_to "all users", users_path %></h1>
+<%= link_to "new user", new_user_path %>
+
+<p>
+  <b>
+    <%= link_to 'activated users', users_path(activated: true) %>
+    <%= link_to 'non active users', users_path(activated: false) %>
+    <%= link_to 'age < 20', users_path(age: "small") %>
+  </b>
+</p>
+
+
+<%= render @users %>

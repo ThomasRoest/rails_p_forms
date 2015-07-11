@@ -87,6 +87,78 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "db/migrate/20150710145206_create_users.rb",
+			"settings":
+			{
+				"buffer_size": 181,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/users_controller.rb",
+			"settings":
+			{
+				"buffer_size": 668,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1643,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/edit.html.erb",
+			"settings":
+			{
+				"buffer_size": 375,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 358,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/application.js",
+			"settings":
+			{
+				"buffer_size": 638,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1347,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -116,6 +188,15 @@
 	},
 	"file_history":
 	[
+		"/home/thomas/projects/rails_practice/rails_p_forms/app/views/users/_user.html.erb",
+		"/home/thomas/projects/rails_practice/rails_p_forms/app/views/users/_user_form_fields.html.erb",
+		"/home/thomas/projects/rails_practice/rails_p_forms/app/views/users/new.html.erb",
+		"/home/thomas/projects/rails_practice/rails_p_forms/app/views/users/index.html.erb",
+		"/home/thomas/projects/rails_practice/rails_p_forms/app/views/users/edit.html.erb",
+		"/home/thomas/projects/rails_practice/rails_p_forms/db/migrate/20150710150830_add_age_to_users.rb",
+		"/home/thomas/projects/rails_practice/rails_p_forms/app/assets/javascripts/users.js",
+		"/home/thomas/projects/rails_practice/rails_p_forms/Gemfile",
+		"/home/thomas/projects/rails_practice/rails_p_forms/app/assets/javascripts/application.js",
 		"/home/thomas/projects/rails_practice/rails_p_forms/app/assets/javascripts/posts.js",
 		"//",
 		"/home/thomas/projects/rails_tutorials/rails_t_treehouse_forms/config/routes.rb",
@@ -244,13 +325,247 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
-			]
-		},
-		{
-			"sheets":
-			[
+				{
+					"buffer": 0,
+					"file": "db/migrate/20150710145206_create_users.rb",
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/users_controller.rb",
+					"settings":
+					{
+						"buffer_size": 668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 1643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/users/edit.html.erb",
+					"settings":
+					{
+						"buffer_size": 375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/users/new.html.erb",
+					"settings":
+					{
+						"buffer_size": 358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/users/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/assets/javascripts/application.js",
+					"settings":
+					{
+						"buffer_size": 638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								638,
+								638
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 1347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								541
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -271,18 +586,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.790476190476,
 			1.0
 		],
 		"rows":
@@ -306,6 +614,90 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"usersedit",
+				"app/views/users/edit.html.erb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"userson",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"app",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"appviewla",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"userscon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"userform",
+				"app/views/users/_user_form.html.erb"
+			],
+			[
+				"edit",
+				"app/views/users/edit.html.erb"
+			],
+			[
+				"_user",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"applica",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"userjs",
+				"app/assets/javascripts/users.js"
+			],
+			[
+				"usersform",
+				"app/views/users/_user_form.html.erb"
+			],
+			[
+				"form",
+				"app/views/users/_user_form.html.erb"
+			],
+			[
+				"migratage",
+				"db/migrate/20150710150830_add_age_to_users.rb"
+			],
+			[
+				"",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"users",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"userinde",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"usersnew",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"migrate",
+				"db/migrate/20150710145206_create_users.rb"
+			],
 			[
 				"formhe",
 				"app/assets/javascripts/formhelpers.js"
@@ -371,24 +763,12 @@
 				"app/views/posts/new.html.erb"
 			],
 			[
-				"routes",
-				"config/routes.rb"
-			],
-			[
 				"postscontr",
 				"app/controllers/posts_controller.rb"
 			],
 			[
-				"migrate",
-				"db/migrate/20150710130735_create_posts.rb"
-			],
-			[
 				"todo_listsinde",
 				"app/views/todo_lists/index.html.erb"
-			],
-			[
-				"gem",
-				"Gemfile"
 			],
 			[
 				"route",
@@ -427,14 +807,6 @@
 				"Gemfile"
 			],
 			[
-				"",
-				"config/routes.rb"
-			],
-			[
-				"applica",
-				"app/controllers/application_controller.rb"
-			],
-			[
 				"api/todo",
 				"app/controllers/api/todo_items_controller.rb"
 			],
@@ -445,10 +817,6 @@
 			[
 				"api",
 				"app/controllers/api/api_controller.rb"
-			],
-			[
-				"app",
-				"app/controllers/application_controller.rb"
 			],
 			[
 				"api_",
@@ -755,68 +1123,8 @@
 				"app/controllers/subscriptions_controller.rb"
 			],
 			[
-				"userscon",
-				"app/controllers/users_controller.rb"
-			],
-			[
 				"job.",
 				"app/models/job.rb"
-			],
-			[
-				"coursescon",
-				"app/controllers/courses_controller.rb"
-			],
-			[
-				"course",
-				"app/controllers/courses_controller.rb"
-			],
-			[
-				"courses",
-				"app/controllers/courses_controller.rb"
-			],
-			[
-				"top",
-				"app/models/topic.rb"
-			],
-			[
-				"topic",
-				"spec/factories/topics.rb"
-			],
-			[
-				"freesubnew",
-				"app/views/free_subscriptions/new.html.erb"
-			],
-			[
-				"deve",
-				"config/environments/development.rb"
-			],
-			[
-				"pub",
-				"public/robots.txt"
-			],
-			[
-				"usersnew",
-				"app/views/users/new.html.erb"
-			],
-			[
-				"newfre",
-				"app/views/static_pages/new_free.html.erb"
-			],
-			[
-				"newfree",
-				"app/views/static_pages/new_free.html.erb"
-			],
-			[
-				"pro",
-				"config/environments/production.rb"
-			],
-			[
-				"postsin",
-				"app/views/posts/index.html.erb"
-			],
-			[
-				"linkscon",
-				"app/controllers/links_controller.rb"
 			]
 		],
 		"width": 0.0
@@ -836,7 +1144,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 85.0,
+	"side_bar_visible": true,
+	"side_bar_width": 72.0,
 	"status_bar_visible": true
 }

@@ -1,0 +1,28 @@
+<%= form_for @user do |f| %>
+  
+<div>
+  <p><%= f.label :name %></p>
+  <%= f.text_field :name %>
+</div>
+<div>
+  <p><%= f.label :email %></p>
+  <%= f.email_field :email %>
+</div>
+<div>
+  <p><%= f.label :age %></p>
+  <p><%= f.range_field :age %><span id="range_score"></span></p>
+</div>
+<div>
+  <p><%= f.label :activated %><%= f.check_box :activated %></p>
+</div>
+<div>
+  <p><%= f.label :born %></p>
+  <p><%= f.date_field :born %></p>
+</div>
+<div>
+  <%= f.submit 'submit' %>
+</div>
+
+<% end %>
+
+
